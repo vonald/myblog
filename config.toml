@@ -56,3 +56,13 @@ theme = "tale"
     width = 50
     height = 50
     alt = "Logo"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "This is the about section"
+    title = "about section"
+    url = "/about/"
+    weight = -110
