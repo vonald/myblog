@@ -1,7 +1,7 @@
 baseURL = "https://strandtest.netlify.app"
-title = "Hugo Themes"
+title = "Strandlines"
 author = "Stephen James"
-paginate = 3
+paginate = 5
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -12,7 +12,7 @@ footnoteReturnLinkContents = "^"
 theme = "tale"
 
 [Author]
-  name = "hugo author"
+  name = "Stephen James"
 
 [permalinks]
 	post = "/:year/:month/:day/:filename/"
