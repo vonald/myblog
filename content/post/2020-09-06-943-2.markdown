@@ -1,0 +1,36 @@
+---
+author: stephen_strandlines
+date: 2020-09-06 09:45:40+00:00
+draft: false
+title: None
+type: post
+url: /943-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+I’m kind of done with Apple. In the sense of being loyal to the ecosystem. I’ve always had a slight reluctance to go all in with their native apps anyway. _What if I want to move to a different system at a later date?_
+
+Migrating information out of Apple always looks less than ideal. Hence, for example, I like to use a plain text file system for notes, stored in Dropbox, rather than the native Notes app.
+
+But there are a couple of issues which really get me. One is a recent hiccup, the other a long term issue.
+
+Firstly, sharing folders. I can’t recall when Apple first introduced this, but it wasn’t something I leapt for at the time. But recently my wife and I decided to move our business documents from Dropbox to iCloud for reasons that are of no interest here. Three weeks after trying to do this, have we succeeded? It just doesn’t happen. We have tried all the methods possible, Airdrop, email and so on. None have worked. On one attempt, I shared an empty folder and later added a second empty folder inside the first. After several hours it eventually showed up in my wife’s copy. I tried more after that….but none of those ever showed up.
+
+So we’ll go back to using third-party cloud storage. Probably pCloud where we have more space than in Dropbox. I really can’t be bothered to put in the time to solve the iCloud mystery.
+
+The other issue I have with Apple is that perfectly good hardware becomes obsolete as operating systems change. I presume it’s deliberately done to convince users to upgrade to the latest and greatest. But that’s never been my ethos. Partly, I don’t have the disposable income to justify spending four figure sums on new hardware every two years. And even if I did, I wouldn’t. It’s just not me. It just seems so wasteful to get rid of a device just because it no longer runs the latest os that well. Just over two years ago we bought a Mac. It was an i5 2017 machine, bought from Apple’s refurbished store. So it was less than a year old when we got it and it’s a great machine. Nothing wrong with it. However, it’s become noticeably slower already, and that is just running everyday applications. Mail, Safari and such.
+
+I’m frustrated.
+
+I’m looking at other options. I’ve been reading up on Linux. One comment leapt out at me, along the lines of ‘Linux breathes new life into a machine that is a perfectly good piece of hardware that no longer runs well with the current operating system.’
+
+So I’ve installed Linux on the Mac, running it as virtual machine. Just to get myself familiar with it. After that, the next step will be when it’s time to upgrade phones, switching to Android. I’ve been looking into running third party versions of Android that eliminate Google as much as possible - I haven't quite got my head around whether the former inherently requires the latter, something I hope cane avoided.
+
+I'm in no hurry and I don't know quite where this will take me, but it feels good to allow myself not to be completely beholden to one company. In the way that the open web is a way for people to claim back the internet, open source software is a way for people to claim back their hardware from the control of big tech. That’s what I’m hoping for.

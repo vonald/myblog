@@ -1,0 +1,32 @@
+---
+author: stephen_strandlines
+date: 2020-07-03 17:50:59+00:00
+draft: false
+title: None
+type: post
+url: /847-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+I have been messing around with OmniFocus. Again.
+
+I tried it maybe a couple of years ago, but couldn’t quite justify committing to it. I think I might be heading the same way again.
+
+I love the perspectives. And the organisation of projects.
+
+But the lack of quick entry of tasks, a la Fantastical or Todoist is probably a deal breaker. And then I discovered that deferred tasks no longer show up in the Forecast view if the start date passes. Hmmmm.
+
+I have the sneaking suspicion that I would end up doing a lot of tinkering, which is good fun and all, but maybe not the point.
+
+Oh, and I like to have tasks become due on a day without having a notification for a specific hour. I like to be able to look at what needs to be done on the day and get on with it without necessarily scheduling in every task.
+
+So that’s talked myself out of it again then, I guess?
+
+Damn...

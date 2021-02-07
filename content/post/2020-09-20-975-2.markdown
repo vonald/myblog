@@ -1,0 +1,19 @@
+---
+author: stephen_strandlines
+date: 2020-09-20 14:17:53+00:00
+draft: false
+title: None
+type: post
+url: /975-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- TiddlyWiki
+- writing
+---
+
+Linking notes in an organised fashion along the lines of a zettelkasten is an idea that appeals, as I make notes and save things to read later all the time. I could do this in Drafts but like Bear notes, another option, the notes are saved in iCloud, and I don't think they are in plaintext or other easy to migrate format. I think it was via [Neil Mather](https://doubleloop.net/2020/03/08/org-roam/) that I came across [TiddlyWiki](https://tiddlywiki.com). I'm starting to play around with making my own - the beauty of it is it's all done in HTML, can be saved in Dropbox and is editable from all platforms. My kind of thing.

@@ -1,0 +1,16 @@
+---
+author: stephen_strandlines
+date: 2020-12-06 09:58:03+00:00
+draft: false
+title: None
+type: post
+url: /1058-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+---
+
+I came over here to do something, realised I needed a thing so I could do the something, went off to get the thing, but on the way forgot what it was I was going to get.

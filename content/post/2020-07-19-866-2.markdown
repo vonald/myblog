@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-07-19 14:20:51+00:00
+draft: false
+title: None
+type: post
+url: /866-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- biking
+---
+
+While doing the brakes etc on my bike I noticed the rear tyre was in bad shape. Ordered a Maxxis Minion (which amuses my son no end) this week, fitted it this morning. Went for a slightly fatter tyre which should make for a better ride on the rough stuff.

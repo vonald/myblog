@@ -1,0 +1,16 @@
+---
+author: stephen_strandlines
+date: 2019-10-13 06:41:00+00:00
+draft: false
+title: None
+type: post
+url: /62/
+categories:
+- nature
+kind:
+- Note
+tags:
+- podcasts
+---
+
+A recent podcast series I have enjoyed is [The Case of Charles Dexter Ward](https://www.bbc.co.uk/programmes/p06spb8w). Based on the H.P. Lovecraft novel of the same name, it is given a modern setting and presented in the style of a true crime podcast, neatly sidestepping [Lovecraft’s writing style](https://howtowritelike.com/2019/02/06/how-to-write-like-h-p-lovecraft/). Enjoyable hokum.

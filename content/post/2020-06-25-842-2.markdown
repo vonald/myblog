@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-06-25 05:35:09+00:00
+draft: false
+title: None
+type: post
+url: /842-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- TV
+---
+
+[DEVS](https://www.bbc.co.uk/iplayer/episodes/p087gj19/devs). Got to episode 5. Don’t think I can be arsed with watching anymore. Too much staring into space, the void, whatever.

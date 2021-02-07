@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2021-01-14 19:23:40+00:00
+draft: false
+title: None
+type: post
+url: /1089-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- coronavirus
+---
+
+Good to see Michael Rosen is [back broadcasting again](https://www.bbc.co.uk/sounds/play/m000qy49) after having Covid.

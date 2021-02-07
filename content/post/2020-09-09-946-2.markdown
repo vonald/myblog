@@ -1,0 +1,19 @@
+---
+author: stephen_strandlines
+date: 2020-09-09 20:05:06+00:00
+draft: false
+title: None
+type: post
+url: /946-2/
+categories:
+- uncategorised
+kind:
+- Bookmark
+post_format:
+- Status
+tags:
+- nature
+- random thoughts
+---
+
+In case you wondered….[Why wasps become so annoying at the end of summer](https://theconversation.com/why-wasps-become-so-annoying-at-the-end-of-summer-145053)

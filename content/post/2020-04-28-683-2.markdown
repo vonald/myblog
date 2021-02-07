@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-04-28 19:02:57+00:00
+draft: false
+title: None
+type: post
+url: /683-2/
+categories:
+- uncategorised
+kind:
+- Read
+post_format:
+- Status
+tags:
+- books
+---
+
+Finished reading and enjoyed [_Roadside Picnic_](https://en.wikipedia.org/wiki/Roadside_Picnic) by Arkady and Boris Strugatsky. 📚

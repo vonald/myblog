@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-12-28 06:49:58+00:00
+draft: false
+title: None
+type: post
+url: /1075-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- books
+---
+
+Finished [The City & the City](https://en.m.wikipedia.org/wiki/The_City_&_the_City) by _China Miéville_.
+
+This first came to my attention via the 2018 mini-series based on it. It’s as much, if not more, about its ideas as it is about the plot. I will think about it for a long time. Will read again.

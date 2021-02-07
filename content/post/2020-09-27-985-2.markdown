@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-09-27 17:45:34+00:00
+draft: false
+title: None
+type: post
+url: /985-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- coronavirus
+---
+
+Started to feel a bit unwell yesterday. Had a high temperature this morning so after checking the NHS website realised I had to go and get a Covid test. Our nearest site was just 40 mins away and meant a very pleasant drive in the autumn sunshine. Had to do the test myself which wasn’t awful, but not very nice either. Just got to self-isolate now, at least until we get the result back.

@@ -1,0 +1,30 @@
+---
+author: stephen_strandlines
+date: 2020-05-17 18:42:03+00:00
+draft: false
+title: None
+type: post
+url: /735-2/
+categories:
+- uncategorised
+kind:
+- Bookmark
+post_format:
+- Status
+tags:
+- tech
+---
+
+Naomi Klein, writing about [how big tech plans to profit from the pandemic,](https://www.theguardian.com/news/2020/may/13/naomi-klein-how-big-tech-plans-to-profit-from-coronavirus-pandemic) acknowledges that:
+
+
+
+<blockquote>technology is most certainly a key part of how we must protect public health in the coming months and years.</blockquote>
+
+
+
+However, she goes on to ask these vital questions about our relationship with tech:
+
+
+
+<blockquote>..will that technology be subject to the disciplines of democracy and public oversight, or will it be rolled out in state-of-exception frenzy, without asking critical questions that will shape our lives for decades to come? Questions such as these, for instance: if we are indeed seeing how critical digital connectivity is in times of crisis, should these networks, and our data, really be in the hands of private players such as Google, Amazon and Apple? If public funds are paying for so much of it, should the public also own and control it? If the internet is essential for so much in our lives, as it clearly is, should it be treated as a nonprofit public utility?</blockquote>

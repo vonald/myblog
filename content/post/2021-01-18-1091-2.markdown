@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2021-01-18 19:02:19+00:00
+draft: false
+title: None
+type: post
+url: /1091-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- raspberry pi
+---
+
+The hosting for my blog is up for renewal in a month or so. It occurred to me to look into the viability of using the raspberry pi as the web server, making it a truly self-hosted blog.
+
+From what I’ve read it should be ok for a site that doesn’t have much traffic - that’s definitely mine! I will try setting up a dummy site before making it live, probably using a ‘flat file’ type cms.

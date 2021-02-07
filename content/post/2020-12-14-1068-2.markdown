@@ -1,0 +1,23 @@
+---
+author: stephen_strandlines
+date: 2020-12-14 13:32:32+00:00
+draft: false
+title: None
+type: post
+url: /1068-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- digital self-determination
+- raspberry pi
+---
+
+On Sunday I set up a self-hosted [Nextcloud](https://nextcloud.com) server on the Raspberry Pi, using a spare USB flash drive for storage. [This tutorial](https://techmadeeasy.co.uk/2020/03/setup-a-raspberry-pi-cloud-server-with-nextcloud/) made it a relatively easy process to do, for a non-tech person, although I did make an error along the way that required going through and checking everything a couple of times.
+
+I can now access the files stored on the server from my home network. Next stop, set up remote access.
+
+At this stage it’s a case of see how it works out. The exercise is all an experiment at the moment anyway, to see what’s possible. I may try setting up a P2P system to see if that works better for me.

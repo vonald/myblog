@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-08-13 12:23:14+00:00
+draft: false
+title: None
+type: post
+url: /906-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- mental health
+---
+
+In regard to taking meds, I’d like to run a control version of myself in parallel so that I can identify what and if the meds are doing anything useful.
+
+I make notes about effects that I attribute to them. I then read the notes later and wonder if they actually have anything to do with the meds at all.

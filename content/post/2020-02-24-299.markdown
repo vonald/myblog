@@ -1,0 +1,25 @@
+---
+author: stephen_strandlines
+date: 2020-02-24 21:53:59+00:00
+draft: false
+title: None
+type: post
+url: /299/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- blogging
+- IndieWeb
+---
+
+For the past few months my blog has been hosted on [Micro.blog](https://micro.blog). I _really_ like the frictionless nature of using it. I [mentioned this in a post](https://strandlines.blog/67/) in which I also said that I was done with Wordpress. So why have I been fiddling around with a self-hosted Wordpress site for my blog for the last week?
+
+Firstly, when I said I was done with Wordpress I was referring to Wordpress.com. While there is a fair amount of customisation that can be done, access to plugins (and the subsequent tinkering that can be done) is limited unless you pay for a top-tier plan. If plug-ins are your thing, from a cost perspective alone it then makes sense to use a self-hosted site. And I like the idea of fiddling with plug-ins.
+
+Secondly, I have become intrigued by the [IndieWeb](https://indieweb.org) movement. I like the ethos of owning your own content and communicating with other web users without having to use social media. Micro.blog is IndieWeb compatible, and while it is accessible it does have one or two limitations. One drawback is that in order to comment on someone's post you have to be a member, which means that you won't have comments on your own posts from people outside of the Micro.blog community. Another drawback is when it comes to customising the website templates that are used - I am not that great at it. Admittedly, this is largely down to my own lack of coding knowledge, but I am more familiar with using Wordpress. Additionally, there are several plugins available for Wordpress that support the IndieWeb and I want to experiment with these and get my head around _webmentions_, _endpoints_ and the like.
+
+I suspect my logic here is somewhat skewed and someone with much better knowledge of both platforms could point out good reasons for me to stick with Micro.blog. I will continue to take part in the community there and I may yet go back to using Micro.blog to host my blog, but for now this is a particular itch I have to scratch.

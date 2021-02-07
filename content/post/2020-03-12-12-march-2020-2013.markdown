@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-03-12 20:13:24+00:00
+draft: false
+title: None
+type: post
+url: /12-march-2020-2013/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- blogging
+---
+
+[NetNewsWire](https://ranchero.com/netnewswire/) - never used any previous iterations of it before. Loaded it onto my phone this week. Clean and simple interface. Fast loading. Easy to use. Easily beats any other RSS readers I’ve used. On my home screen.

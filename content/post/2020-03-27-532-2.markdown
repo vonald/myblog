@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-03-27 13:38:19+00:00
+draft: false
+title: None
+type: post
+url: /532-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- coronavirus
+---
+
+The lockdown does _not_ mean it is ok to drive down the middle of the road.

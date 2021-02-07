@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-09-26 13:04:06+00:00
+draft: false
+title: None
+type: post
+url: /983-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+Feeling pretty pleased having managed to successfully replace the battery in an old iPhone 5S, with the intention of making it my son’s first phone. Done for less then 20 quid.

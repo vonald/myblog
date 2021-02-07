@@ -1,0 +1,19 @@
+---
+author: stephen_strandlines
+date: 2020-03-26 20:23:26+00:00
+draft: false
+title: None
+type: post
+url: /526-2/
+categories:
+- uncategorised
+kind:
+- Listen
+post_format:
+- Audio
+tags:
+- coronavirus
+- podcasts
+---
+
+Benjamen Walker, who’s [Theory of Everything](https://pods.link/gb/i/646537599) podcast is one of my regular listens, has started a new series called [Social Distance Learning](https://theoryofeverythingpodcast.com/2020/03/escape-from-new-york/) - a wry look at the Coronovirus pandemic.

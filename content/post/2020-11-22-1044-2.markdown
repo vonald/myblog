@@ -1,0 +1,34 @@
+---
+author: stephen_strandlines
+date: 2020-11-22 15:39:36+00:00
+draft: false
+title: None
+type: post
+url: /1044-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- digital self-determination
+---
+
+I’ve just emerged from a JavaScript rabbit hole. I’ve been writing a script that, combined with Shortcuts, will regularly do a backup of a text file. It is probably inelegant, but it works and as a JavaScript newbie I’m feeling pretty good about it.
+
+This all came about due to my increasing dissatisfaction with Apple and tech in general, or more specifically, the business model that much of tech is based on, namely built-in obsolescence and the lack of control over individual’s data. Add to that the frustration when otherwise very good apps have little quirks that spoil my experience of them. Mostly these are just design features rather than bugs, but they just don’t suit my way of doing things.
+
+I like using text files for all sorts of things and enjoy the barebones experience of just me, a text editor and a file. I recently discovered Todo.txt files for managing tasks. I had just paid for a years subscription to Todoist, for which I kicked myself, as I found it didn’t quite work for me. In response to mentioning Todo.txt files on this blog, [Simon](https://strandlines.blog/1036-2/) mentioned Taskpaper, and largely out of curiosity I had a go with using the format and, for the time being at least, am sticking with it.
+
+Having downloaded Taskpaper actions into Drafts, I realised it would be really useful to keep backups of my Taskpaper files, as I was messing about with making my own actions and could see that I might inadvertently overwrite a current file by mistake.
+
+I thought I might be able to do it in iOS Shortcuts but you can’t access files outside of Dropbox or the Shortcuts folder in iCloud. Given I also want to be able to store my files where _I_ choose I set about seeing how I could create something to do the backups.
+
+My investigations quickly led to JavaScript and [Scriptable](https://scriptable.app)(what a brilliant app!). All I needed to be able to do was write the required script…
+
+In my pursuit of [digital self-determination](https://doubleloop.net/2020/07/22/autonomy-digital-self-determination-agency/), writing the script was something of an entrance exam. In order to enable me to make the most of this DIY approach I felt I had to be able to get my head around at least some basic coding. If I could crack that, then it would open up many more doors.
+
+Finding the way into learning to code for a newbie can be pretty daunting. Loads of tutorials and reference guides on the internet, but so often I find that they presuppose there to be at least some basic understanding. In the end I found a simple bit of code on the [Automators forum](https://talk.automators.fm/c/scriptable/13), and using the console.log command was able to pick it apart and see what was going on. From that, I was then able to build it up, pretty much line by line, testing it as I went. I learn so much better this way as I get to see how it works.
+
+I know this will be very basic stuff to an experienced programmer, but to me this is a big hurdle which I have managed to get over. And the way I see it, it goes some way to putting the power of technology back in to my hands.

@@ -1,0 +1,28 @@
+---
+author: stephen_strandlines
+date: 2020-11-29 06:08:58+00:00
+draft: false
+title: None
+type: post
+url: /1051-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+Spending a fair amount of time each day since Tuesday trying to sort out problems with our business email is not my idea of fun. But I think we are there now.
+
+I thought it was a simple case of updating the DNS records. Which _was_ part of the problem. Exacerbated by being given the incorrect information maybe four times? In the end it transpired the DNS records were correct. The problem was, for reasons beyond my comprehension of these things, the hosting company’s firewall was blocking my IP address.
+
+I could get really wound up about this.
+
+I’ve been getting up earlier in the mornings so that I have time to get on to tech support before getting ready for work. I can’t mentally let go easily of unresolved problems like this. But, coupled with a particularly busy couple of weeks work-wise anyway, I lack the energy to get that angry about it. Which is probably for the best.
+
+Right now, our emails are working again. That’s the key thing. In due course I will look into changing hosting companies. We have had intermittent problems with email since switching to the current one. Yes, they are cheaper than many others, but perhaps therein lies a lesson. As the saying goes, you get what you pay for.
+
+Lesson learned? I hope so.

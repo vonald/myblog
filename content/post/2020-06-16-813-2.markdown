@@ -1,0 +1,19 @@
+---
+author: stephen_strandlines
+date: 2020-06-16 20:47:38+00:00
+draft: false
+title: None
+type: post
+url: /813-2/
+categories:
+- uncategorised
+kind:
+- Photo
+post_format:
+- Status
+tags:
+- photo
+---
+
+![Cumilonimbus](https://www.dropbox.com/s/x4skvls4emf4v40/IMG_3422.jpeg?raw=1)
+Rumbles of thunder coming from the north.

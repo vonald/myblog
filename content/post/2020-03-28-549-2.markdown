@@ -1,0 +1,21 @@
+---
+author: stephen_strandlines
+date: 2020-03-28 11:46:40+00:00
+draft: false
+title: None
+type: post
+url: /549-2/
+categories:
+- uncategorised
+kind:
+- Photo
+post_format:
+- Status
+tags:
+- coronavirus
+---
+
+The normally busy A303 at 8am on Friday. Felt like I was in a John Wyndham novel.
+
+![The normally busy A303 during the coronavirus lockdown](https://strandlines.blog/wp-content/uploads/2020/03/IMG_2877-2-1024x1024.jpg)
+

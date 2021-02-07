@@ -1,0 +1,16 @@
+---
+author: stephen_strandlines
+date: 2020-05-06 04:45:22+00:00
+draft: false
+title: None
+type: post
+url: /697-2/
+categories:
+- uncategorised
+post_format:
+- Status
+tags:
+- random thoughts
+---
+
+Is there a good source of secondhand books in the UK that isn’t Abebooks? While it is a good website it’s still another part of the Kingdom of Amazon, and I’m trying to avoid all things Bezos.

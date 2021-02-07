@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-05-29 06:26:06+00:00
+draft: false
+title: None
+type: post
+url: /766-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- blogging
+---
+
+Switching my Wordpress theme to [SemPress](https://notiz.blog/projects/sempress/) recently, I didn’t realise it lacked a search function. The previous theme did and it was handy to have as I have trouble remembering when I wrote something.
+
+So a bit of fiddling to do with the website this weekend.

@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-08-16 20:12:45+00:00
+draft: false
+title: None
+type: post
+url: /910-2/
+categories:
+- uncategorised
+kind:
+- Watch
+post_format:
+- Status
+tags:
+- films
+---
+
+Watched [_Rogue One_](https://m.imdb.com/title/tt03748528/) for our family Star Wars season - not sure if it’s the second or third time. Love it. The two weird uncanny-valley CGI characters aside, that is. Otherwise everything is right with it.

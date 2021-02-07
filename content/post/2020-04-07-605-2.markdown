@@ -1,0 +1,23 @@
+---
+author: stephen_strandlines
+date: 2020-04-07 19:26:35+00:00
+draft: false
+title: None
+type: post
+url: /605-2/
+categories:
+- uncategorised
+kind:
+- Listen
+post_format:
+- Status
+tags:
+- climate change
+- coronavirus
+- podcasts
+- positives
+---
+
+In order to stay positive, I am trying to limit my intake of news. I want facts, not sensation. Even some of the output from those sources I deem to be more measured have arguably strayed into the unnecessary at times.
+
+I also find decent analysis useful to listen to as well. I have recently subscribed to the podcast [Outrage and Optimism](https://pca.st/podcast/0b7e2ba0-49de-0137-f266-1d245fc5f9cf). One of the hosts is [Christiana Figueres](https://en.m.wikipedia.org/wiki/Christiana_Figueres), who led the work at the UN that resulted in the Paris Agreement. While the podcast is mainly about climate change, this [recent episode looked at the Coronavirus pandemic](https://pca.st/episode/18cd82bc-f21b-4002-87a0-9dab6eda7665) - how to remain positive and _find_ positives in the situation.

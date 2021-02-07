@@ -1,0 +1,16 @@
+---
+author: stephen_strandlines
+date: 2020-10-30 13:37:08+00:00
+draft: false
+title: None
+type: post
+url: /1036-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+---
+
+Why have I not come across [Todo.txt](http://todotxt.org) before? As a .txt file zealot an' all.

@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-05-31 05:23:21+00:00
+draft: false
+title: None
+type: post
+url: /773-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+Flexibits have removed the annoying pop-up prompts to sign up for the premium version of Fantastical on iOS. It is now much more pleasant to use again. The natural language input is just brilliant and being able to use actions in Drafts for setting up events makes for a really useful workflow.
+
+I am still yet to be convinced that the premium version is worth it, much as I would like to have access to Fantastical on the Mac. Scheduling _is_ something I have to spend time doing quite a lot of, so maybe it would be worth it…

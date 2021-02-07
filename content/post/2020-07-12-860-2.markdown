@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-07-12 21:03:59+00:00
+draft: false
+title: None
+type: post
+url: /860-2/
+categories:
+- uncategorised
+kind:
+- Photo
+post_format:
+- Status
+tags:
+- get outdoors
+- weather
+---
+
+![Beautiful mackerel sky this morning.](https://www.dropbox.com/s/4wef3pyt22q99te/IMG_3491.jpeg?raw=1)
+Beautiful mackerel sky this morning.

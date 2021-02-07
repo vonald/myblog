@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-11-07 08:16:37+00:00
+draft: false
+title: None
+type: post
+url: /1038-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+Automations on iOS 14 are so much better now that they can be set up to run, er, _automatically_.
+
+Except when they don’t. Run at all.

@@ -1,0 +1,22 @@
+---
+author: stephen_strandlines
+date: 2020-05-23 08:14:01+00:00
+draft: false
+title: None
+type: post
+url: /748-2/
+categories:
+- uncategorised
+kind:
+- Listen
+post_format:
+- Status
+tags:
+- podcasts
+---
+
+Two podcast episodes I have enjoyed this week: one old, one new, both related to Roman Mars.
+
+Scientists use the opportunity the world being in lockdown presents to conduct research that would otherwise be impossible… [401- The Natural Experiment - 99% Invisible](https://pca.st/episode/02c6b74d-3ec6-4766-a56c-d99819da4ab4)
+
+And a weird code related quirk… [140 The Roman Mars Mazda Virus - Reply All](https://pca.st/episode/04af6a67-1403-4007-ad83-5d38eb5ec605)

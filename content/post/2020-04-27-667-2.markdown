@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-04-27 05:54:40+00:00
+draft: false
+title: None
+type: post
+url: /667-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- random thoughts
+---
+
+**Cryptomnesia** /ˌkrɪptəmˈniːzɪə/ • **n** when I have a great idea or thought only to learn that my wife made the very same suggestion just a few days prior.

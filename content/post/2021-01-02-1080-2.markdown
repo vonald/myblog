@@ -1,0 +1,19 @@
+---
+author: stephen_strandlines
+date: 2021-01-02 14:13:09+00:00
+draft: false
+title: None
+type: post
+url: /1080-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- digital self-determination
+- raspberry pi
+---
+
+More fiddling around with the Raspberry pi over the break. Managed to add an SSL certificate to the Nextcloud server using [Certbot](https://certbot.eff.org) which has very easy to use instructions on the website. Next on the list is to learn about and implement some Bash scripts and cron jobs so that I can have to pi doing regular back-ups and such.

@@ -1,0 +1,27 @@
+---
+author: stephen_strandlines
+date: 2020-05-25 20:10:06+00:00
+draft: false
+title: None
+type: post
+url: /754-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- blogging
+- tech
+---
+
+Changed our business email hosting provider over the weekend. A fairly straightforward process other than changing the MX records. Used the live chat support to find out what they need to be changed to. It took nearly an hour for them to do it.
+
+Maybe there was a genuine reason for why it took so long but anyway. Got it sorted eventually. And the new system is a lot easier to manage.
+
+Been getting into using [Drafts](getdrafts.com) a lot more of late. Scripting is beyond me at the moment but I am making a lot of basic actions to automate stuff I do.
+
+Like drafting a post for this blog. One action emails the draft to Wordpress, saves a copy to Dropbox and opens Safari on my Wordpress login so that I can open the post and do any final edits before publishing.
+
+Think this will be one subscription app that really earns its keep.

@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-03-29 16:23:40+00:00
+draft: false
+title: None
+type: post
+url: /577-2/
+categories:
+- uncategorised
+kind:
+- Bookmark
+post_format:
+- Status
+tags:
+- blogging
+- IndieWeb
+- Wordpress
+---
+
+As an IndieWeb newbie I am very much still getting to grips with many aspects of applying the principles to my Wordpress blog. I had been struggling with how to implement reply-contexts until I came across this article by [Chris Aldrich](https://boffosocko.com/) where he explains very clearly how to use the [Post Kinds plugin](https://wordpress.org/plugins/indieweb-post-kinds/). I hadn't discovered the Response Properties box available in the post editor up until this point, but now I have I can show neat looking links, excerpts and author details for anything that I am replying to or commenting on. This post being a case in point.

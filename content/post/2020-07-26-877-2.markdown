@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-07-26 15:32:56+00:00
+draft: false
+title: None
+type: post
+url: /877-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+[After nearly deleting Omnifocus](https://strandlines.blog/847-2/), I paid for a month’s subscription and have been giving some more time to it. But I have also been using Things 3. I bought this for my iPad quite a while ago and enjoyed using it other than it being very date focussed, which doesn’t really suit my style. In addition it doesn’t have an equivalent of perspectives in Omnifocus.
+
+However, since I last used Things, a comprehensive URL scheme has been implemented and this is a game changer, enabling the creation of Shortcuts in IOS that emulate perspectives pretty well.

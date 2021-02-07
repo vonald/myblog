@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-10-21 04:19:27+00:00
+draft: false
+title: None
+type: post
+url: /1006-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+Had a problem with the contact form on our business’s website. Loads of spam plus genuine contacts were being labelled as spam too. In looking to solve this I considered using Captcha. In reading about it I discovered it’s a Google thing and, unsurprisingly, [collects a lot of data](https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side).
+
+So I won’t be installing that then.

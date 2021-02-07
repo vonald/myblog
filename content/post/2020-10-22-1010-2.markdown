@@ -1,0 +1,30 @@
+---
+author: stephen_strandlines
+date: 2020-10-22 12:48:01+00:00
+draft: false
+title: None
+type: post
+url: /1010-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- random thoughts
+---
+
+Last night, the Tories voted down Labour’s motion to extend free school meals during the holidays to disadvantaged children. My son enjoys maths so this morning we did a rough calculation to find out the cost to the Treasury of the scheme, had it been voted through.
+
+According to this [article in the Guardian](https://www.theguardian.com/education/2020/oct/21/marcus-rashford-in-despair-as-mps-reject-free-school-meal-plan?), it would affect 1.4 million children. The vouchers are worth £15 per week, and there are four weeks holiday between now and Easter, which is when it was proposed the scheme would run until. So the calculation is as follows;
+
+(15x 4) x 1.4 million = £84 million.
+
+Which my son thought was a lot. However, according to the same article, the government has paid out £210 billion in financial help during the pandemic. So by way of comparison we then looked at what order of magnitude there was between the two sums;
+
+210 billion/ 84 million = 2.5 million.
+
+My son and I talked about how this put it into perspective; that it was like a rich person giving £2.5 million to help all sorts of people but refusing to give my son £1. He was aghast.
+
+While I don’t think food vouchers are a long term solution and wouldn’t pretend to have any answers, I can’t believe for a moment this is about concern over spending money. Call me a cynic, but I’m sure this is more about the optics - looking good to the voter who gets up in arms about benefit fraud and the like. Thing is, from where I’m standing, it just looks mean-spirited.

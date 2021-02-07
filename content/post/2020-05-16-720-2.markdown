@@ -1,0 +1,27 @@
+---
+author: stephen_strandlines
+date: 2020-05-16 17:28:00+00:00
+draft: false
+title: None
+type: post
+url: /720-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- mental health
+- social anxiety disorder
+---
+
+Came across [this research paper](https://onlinelibrary.wiley.com/doi/full/10.1111/pcn.12327) on social anxiety disorder and one sentence stood out, as it sheds some light on [the unresolved question](https://strandlines.blog/708-2/) of how can it take so long to realise there is something going on:
+
+
+
+<blockquote>Owing to the early onset and chronicity of SAD, many individuals may also believe that these symptoms are part of their personality and therefore cannot be changed.</blockquote>
+
+
+
+Makes me feel better.

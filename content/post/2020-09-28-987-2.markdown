@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-09-28 07:28:59+00:00
+draft: false
+title: None
+type: post
+url: /987-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- tech
+---
+
+An unforeseen and quite entertaining byproduct of using a vpn is I now get embedded adverts in the language of where the vpn server is, currently Holland.

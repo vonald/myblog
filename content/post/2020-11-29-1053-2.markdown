@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-11-29 18:56:08+00:00
+draft: false
+title: None
+type: post
+url: /1053-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- raspberry pi
+---
+
+Booted up the Raspberry Pi this afternoon for the first time. Used a redundant monitor, keyboard and mouse. It feels good to repurpose old gear that is sitting around unused. I’ve also set up VNC so I can use my iPad as a monitor.
+
+For the time being I’ve loaded Raspbian and I’ll probably keep it this way for the time being while I get used to using it. However, I’ve no doubt that I will fairly quickly get around to wanting to try some other setups. Must order some more SD cards!

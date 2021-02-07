@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-03-17 19:53:24+00:00
+draft: false
+title: None
+type: post
+url: /479-2/
+categories:
+- uncategorised
+kind:
+- Reply
+post_format:
+- Status
+tags:
+- music
+---
+
+[Your query about a web player](https://doubleloop.net/2020/03/17/6623/#respond) ... would [Song.link](http://odesli.co/) fit the bill?

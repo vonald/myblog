@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2021-01-28 13:24:35+00:00
+draft: false
+title: None
+type: post
+url: /1097-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- watched
+---
+
+Watched the first episode of [Lupin](https://en.m.wikipedia.org/wiki/Lupin_(TV_series)). I’m always a sucker for a good heist story and thoroughly enjoyed it. Netflix automatically started showing it in the English dubbed version but I much preferred it in the original French with subtitles.

@@ -1,0 +1,24 @@
+---
+author: stephen_strandlines
+date: 2020-09-13 18:06:06+00:00
+draft: false
+title: None
+type: post
+url: /960-2/
+categories:
+- uncategorised
+kind:
+- Quote
+post_format:
+- Status
+tags:
+- random thoughts
+---
+
+<blockquote>
+  “I wonder,” said the Hon. Freddy Arbuthnot, “what damn silly fool invented Sunday afternoon.”
+</blockquote>
+
+
+
+Dorothy L Sayers _Clouds of Witness_

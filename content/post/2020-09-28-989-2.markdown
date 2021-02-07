@@ -1,0 +1,18 @@
+---
+author: stephen_strandlines
+date: 2020-09-28 18:22:57+00:00
+draft: false
+title: None
+type: post
+url: /989-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- coronavirus
+---
+
+The Covid test came back negative, for which I’m pleased. Just over 24hrs from test to result so not bad given some of the stories reported. Just one day of self-isolation and back to normal tomorrow.

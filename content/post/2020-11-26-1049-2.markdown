@@ -1,0 +1,20 @@
+---
+author: stephen_strandlines
+date: 2020-11-26 20:45:27+00:00
+draft: false
+title: None
+type: post
+url: /1049-2/
+categories:
+- uncategorised
+kind:
+- Note
+post_format:
+- Status
+tags:
+- raspberry pi
+- tech
+---
+
+I’m not entirely sure what my plans for it are yet, but this Raspberry Pi 4 arrived yesterday. My new toy to tinker with over the long nights of winter. Mess around with Linux? Make a Minecraft server? Lots of possibilities and a few ideas in the pipeline. Goodbye boredom….![](https://www.dropbox.com/s/rosfyt99w86g7pb/IMG_4201-3.jpeg?raw=1)
+
