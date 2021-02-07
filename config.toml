@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://strandtest.netlify.app"
 title = "Hugo Themes"
 author = "Stephen James"
 paginate = 3
