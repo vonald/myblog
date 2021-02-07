@@ -47,6 +47,11 @@ theme = "tale"
   url="https://twitter.com/GoHugoIO"
   icon="fab fa-twitter"
 
+[[params.social]]
+title = "rss"
+icon = "ti-rss" # themify icon : https://themify.me/themify-icons
+link = "https://strandtest.netlify.app/index.xml"
+
 [params]
   mainSections = ["post"]
   favicon = "favicon.ico"
@@ -62,7 +67,8 @@ theme = "tale"
 
   [[menu.main]]
     identifier = "about"
-    name = "This is the about section"
+    name = "About"
     title = "about section"
     url = "/about/"
     weight = -110
+
