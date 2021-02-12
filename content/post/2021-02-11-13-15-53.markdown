@@ -1,6 +1,6 @@
 ---
-author : Stephen James
-date : 2021-02-11
+author: Stephen James
+date: 2021-02-11
 text
 tag
 ---
