@@ -1,6 +1,6 @@
 ---
 author: stephen_strandlines
-date: 2021-01-28 #13:24:35+00:00
+date: 2021-01-28 13:24:35+00:00
 draft: false
 title: None
 type: post
