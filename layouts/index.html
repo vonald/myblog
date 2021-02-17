@@ -1,11 +1,11 @@
-{{ define "main" }}
+e{{ define "main" }}
 
 <main>
 	{{ partial "index/introduction.html" . }}
 
 	<div class="catalogue">
 		{{ range (.Paginate .Site.RegularPages).Pages }}
-			{{ .Content }}
+			{{ .Render }}
 		{{ end }}
 	</div>
 
