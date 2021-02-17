@@ -5,7 +5,7 @@ e{{ define "main" }}
 
 	<div class="catalogue">
 		{{ range (.Paginate .Site.RegularPages).Pages }}
-			{{ .Render }}
+			{{ .Render "summary"}}
 		{{ end }}
 	</div>
 
