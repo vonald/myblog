@@ -488,10 +488,10 @@ footer {
     right: 0; }
 
 .catalogue-item {
-  # border-bottom: 1px solid #e5e5e5;
-  # color: #555;
-  # display: block;
- # padding: 2rem 0; }
+  border-bottom: 1px solid #e5e5e5;
+  color: #555;
+  display: block;
+  padding: 2rem 0; }
   .catalogue-item:hover .catalogue-line,
   .catalogue-item:focus .catalogue-line {
     width: 5rem; }
