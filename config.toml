@@ -55,6 +55,7 @@ link = "https://strandtest.netlify.app/index.xml"
 [params]
   mainSections = ["post"]
   favicon = "favicon.ico"
+  css = ["custom.css"]
 
   [params.logo]
     url = "icon.png"
@@ -62,8 +63,6 @@ link = "https://strandtest.netlify.app/index.xml"
     height = 50
     alt = "Logo"
 
-[params.css]
-css = ["custom.css"]
 
 
 [menu]
