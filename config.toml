@@ -62,7 +62,7 @@ link = "https://strandtest.netlify.app/index.xml"
     height = 50
     alt = "Logo"
 
-[params]
+[params.css]
 css = ["custom.css"]
 
 
