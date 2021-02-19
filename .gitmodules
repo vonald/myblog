@@ -1,6 +1,6 @@
 [submodule "themes/harbor"]
 	path = themes/harbor
 	url = https://github.com/matsuyoshi30/harbor.git
-# [submodule "themes/tale"]
+[submodule "themes/tale"]
 	path = themes/tale
 	url = https://github.com/EmielH/tale-hugo.git
