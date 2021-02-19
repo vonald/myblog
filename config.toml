@@ -9,7 +9,7 @@ footnoteReturnLinkContents = "^"
 # REMOVE THIS
 # themesDir = "../../"
 # DO NOT REMOVE THIS
-theme = "hugo-theme-basic"
+theme = "hugo-themes-basic"
 
 [Author]
   name = "Stephen James"
