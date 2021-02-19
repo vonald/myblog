@@ -9,7 +9,7 @@ footnoteReturnLinkContents = "^"
 # REMOVE THIS
 # themesDir = "../../"
 # DO NOT REMOVE THIS
-theme = "lanyon"
+theme = "Lanyon"
 
 [Author]
   name = "Stephen James"
