@@ -16,6 +16,14 @@ authorEmail = "ribice@gmail.com" # Author email
 [params.assets]
 customCSS = ["css/custom.css"]
 
+[Author]
+  name = "Stephen James"
+
+[permalinks]
+	post = "/:year/:month/:day/:filename/"
+	page = "/:filename/"
+
+
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = true # Adds OpenGraph and Twitter cards
