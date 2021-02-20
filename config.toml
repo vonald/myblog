@@ -2,7 +2,7 @@ baseURL = "https://strandtest.netlify.app"
 languageCode = "en"
 title = "Strandlines"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+copyright = "&copy; <a>Stephen James</a> 2017"
 disqusShortname = "shortname"
 googleAnalytics = ""
 Paginate = 5 # Number of posts per page
@@ -29,7 +29,7 @@ taxonomiesCount = true # Add taxonomies count
 disqusOnDemand = true  # Load Disqus comments on click
 
 
-[params.opengraph.facebook]
+# [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
 appID = ""
 pageID = ""
@@ -38,7 +38,7 @@ pageID = ""
 page = "" # Twitter Page username. If not set, params.social.twitter will be used.
 
 [params.social]
-twitter = "ribicemir"
+# twitter = "ribicemir"
 github = "ribice"
 email = "ribice@gmail.com"
 linkedin = "ribice"
