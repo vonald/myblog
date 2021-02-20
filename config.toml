@@ -1,76 +1,64 @@
 baseURL = "https://strandtest.netlify.app"
-title = "Strandlines"
-author = "Stephen James"
-paginate = 5
 languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
-# REMOVE THIS
-# themesDir = "../../"
-# DO NOT REMOVE THIS
-theme = "hugo-themes-basic"
+title = "Strandlines"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+disqusShortname = "shortname"
+googleAnalytics = ""
+Paginate = 5 # Number of posts per page
+enableRobotsTXT = true
 
-[Author]
-  name = "Stephen James"
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "Emir Ribic" # Author full name
+authorEmail = "ribice@gmail.com" # Author email
 
-[permalinks]
-	post = "/:year/:month/:day/:filename/"
-	page = "/:filename/"
+[params.assets]
+customCSS = ["css/custom.css"]
 
-[outputs]
-    section = ["JSON", "HTML"]
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+taxonomiesCount = true # Add taxonomies count
 
-[[params.nav]]
-  identifier = "about"
-  name = "About"
-  icon = "fas fa-user fa-lg"
-  url = "/about/"
-  weight = 3
-
-[[params.nav]]
-  identifier = "tags"
-  name = "Tags"
-  icon = "fas fa-tag fa-lg"
-  url = "/tags/"
-  weight = 3
-
-[[params.nav]]
-  identifier = "search"
-  name = "Search"
-  icon = "fas fa-search fa-lg"
-  url = "/search/"
-  weight = 3
-
-[[params.social]]
-  name= "twitter"
-  url="https://twitter.com/GoHugoIO"
-  icon="fab fa-twitter"
-
-[[params.social]]
-title = "rss"
-icon = "ti-rss" # themify icon : https://themify.me/themify-icons
-link = "https://strandtest.netlify.app/index.xml"
-
-[params]
-  mainSections = ["post"]
-  favicon = "favicon.ico"
-  css = ["custom.css"]
-
-  [params.logo]
-    url = "icon.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+[params.features]
+disqusOnDemand = true  # Load Disqus comments on click
 
 
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
 
-[menu]
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    title = "about section"
-    url = "/about/"
-    weight = -110
+[params.social]
+twitter = "ribicemir"
+github = "ribice"
+email = "ribice@gmail.com"
+linkedin = "ribice"
+facebook = "ribice"
+instagram = ""
+codepen = ""
+rss = "index.xml" # Add this to show RSS button in social.
 
+[params.social.config]
+platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = "//matomo.example.com/"
+
+[params.fathomAnalytics]
+rootURL = "//fathom.example.com/"
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
