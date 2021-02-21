@@ -17,7 +17,7 @@
         {{ end }}
       </div>
       <h2 class="subtitle is-6 date"><a
-href="{{ .Permalink}}>{{ .Date.Format "January 2, 2006" }}</a></h2>
+href="{{ .Permalink}}">{{ .Date.Format "January 2, 2006" }}</a></h2>
       <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}{{ partial "taxonomies_count" . }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
       <div class="content">
         {{ .Content }}
