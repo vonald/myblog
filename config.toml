@@ -2,7 +2,7 @@ baseURL = "https://strandtest.netlify.app"
 languageCode = "en"
 title = "Strandlines"
 theme = "kiss"
-copyright = "&copy; <a>Stephen James</a> 2017"
+copyright = "&copy; <a>Stephen James</a> {{ dateFormat "2006" now }}
 disqusShortname = "shortname"
 googleAnalytics = ""
 Paginate = 5 # Number of posts per page
@@ -10,8 +10,8 @@ enableRobotsTXT = true
 
 [params.rss] # Adding this tag enables RSS feed
 includeContent = true # Includes whole content in rss
-authorName = "Emir Ribic" # Author full name
-authorEmail = "ribice@gmail.com" # Author email
+authorName = "Stephen James" # Author full name
+authorEmail = "strandlines@myself.com" # Author email
 
 [params.assets]
 customCSS = ["css/custom.css"]
