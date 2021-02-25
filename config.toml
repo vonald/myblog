@@ -8,6 +8,13 @@ googleAnalytics = ""
 Paginate = 5 # Number of posts per page
 enableRobotsTXT = true
 
+[outputs]
+	page = ["HTML"]
+	home = ["HTML", "RSSS"]
+	section = ["HTML"]
+	taxonomyTerm = ["HTML"]
+	taxonomy = ["HTML"]
+
 [params.rss] # Adding this tag enables RSS feed
 includeContent = true # Includes whole content in rss
 authorName = "Stephen James" # Author full name
