@@ -2,7 +2,7 @@
 author: Stephen James
 date: 2021-02-24
 title: ""
-tag: raspberry pi, blogging
+tags: raspberry pi, blogging
 ---
 Harumph. My Nextcloud server has stopped working. I have had a poke around, and it looks like it may be something to do with the SSL certificate auto-renewing. I get an error message telling me one of the key files is missing. Except it is quite clearly there. This is where my lack of knowledge shows up. When something goes wrong. 
 
