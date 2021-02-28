@@ -1,4 +1,4 @@
-baseURL = "https://strandtest.netlify.app"
+baseURL = "https://strandlines.blog"
 languageCode = "en"
 title = "Strandlines"
 theme = "kiss"
