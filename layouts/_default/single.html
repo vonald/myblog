@@ -14,6 +14,7 @@
     {{ end }}
     <div class="content">
       {{ .Content }}
+	<div id="webmentions"></div>
       {{ if .Site.Params.Info.related }}
       <div class="related">{{ partial "related" . }}</div>
       {{ end }}
