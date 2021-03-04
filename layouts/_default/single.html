@@ -14,8 +14,6 @@
     {{ end }}
     <div class="content">
       {{ .Content }}
-      <div id="webmentions"></div>
-	<script src="/static/webmention.min.js" async></script>
       {{ if .Site.Params.Info.related }}
       <div class="related">{{ partial "related" . }}</div>
       {{ end }}
