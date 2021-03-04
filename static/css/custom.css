@@ -16,7 +16,7 @@ body.dark-mode main * {
 
 # CSS for webmentions
 
-#webmentions {
+webmentions {
     margin: 0;
     position: relative;
     z-index: 100;
