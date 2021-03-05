@@ -1,0 +1,29 @@
+
+%20partial%20%22header%22%20.%20
+%20partial%20%22nav%22%20.%20
+<section class="section">
+  <div class="container">
+    <div class="subtitle tags is-6 is$
+      %20if%20.Params.tags%20
+      {{ partial "tags" .Params.tags $
+      %20end%20
+    </div>
+    if%20not%20.Date.IsZero%20<h2 class$
+    <h1 class="title">%20.Title%20</h$
+    %20if%20and%20%28.Site.Params.Info.adse%24%0A%20%20%20%20%7B%7B%20partial%20%22adsense%22%20.%20
+    %20end%20
+    <div class="content">
+      %20.Content%20
+        <div id="webmentions"></div>
+      {{ if .Site.Params.Info.related$
+      <div class="related">{{ partial$
+      %20end%20
+    </div>
+    %20if%20and%20%28.Site.Params.Info.adse%24%0A%20%20%20%20%7B%7B%20partial%20%22adsense%22%20.%20
+    %20end
+  </div>
+</section>
+%20if%20%28and%20%28.Site.Params.Info.codeCop%24%0A%20%20%20%20%3Cscript%20src%3D%22/js/copycode.js%22%3E%3C/s%24%0A%7B%7B%20end%20
+%20partial%20%22footer%22%20.%20
+
+
