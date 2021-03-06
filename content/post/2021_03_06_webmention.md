@@ -18,4 +18,3 @@ type: reply
 </p>
 {{< microformats/entryEnd >}}
 
-https://www.dropbox.com/s/ri940xcob6ld4q9/2019-08-03%2020-12-29.jpeg?raw=1
