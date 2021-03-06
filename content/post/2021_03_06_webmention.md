@@ -6,7 +6,7 @@ tags: [  ]
 type: reply
 ---
 {{< microformats/entry >}}
-{{< microformats/para >}}in reply to: {{< microformats/reply >}}
+{{< microformats/para >}}{{< microformats/reply >}}
 [Sending your First Webmention from Scratch • Aaron Parecki](https://aaronparecki.com/2018/06/30/11/your-first-webmention)
 {{< microformats/content >}} Trying out this guide to sending webmentions
 {{< microformats/entryEnd >}}
