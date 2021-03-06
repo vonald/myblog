@@ -12,4 +12,9 @@ type: reply
 	</div>
 <p>in reply to: <a class="u-in-reply-to" href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
 <p class="e-content"> Trying out this guide to sending webmentions
+<p>
+	<a href="https://aaronpk.com/reply.html" class="u-url">
+ 	  <time class="dt-published" datetime="2018-06-30T17:15:00-0700">July 30, 2018</time>
+	</a>
+</p>
 {{< microformats/entryEnd >}}
