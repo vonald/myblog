@@ -7,7 +7,7 @@ type: reply
 ---
 <div class="h-entry">
 	<div class="u-author h-card">
-  		<img src="/static/mstile-150x150.png" class="u-photo" width="40">
+  		<img src="/mstile-150x150.png" class="u-photo" width="40">
   		<a href="https://strandlines.blog/" class="u-url p-name">Stephen James</a>
 	</div>
 <p>in reply to: <a class="u-in-reply-to" href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
