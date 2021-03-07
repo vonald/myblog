@@ -2,7 +2,7 @@
 author: Stephen James
 date: 2021-03-07
 title: ""
-tags: [ [[tag_text]] ]
+tags: [  ]
 type: reply
 ---
 <div class="h-entry">
