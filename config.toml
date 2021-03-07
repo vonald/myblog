@@ -55,7 +55,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 [params.social]
 # twitter = "ribicemir"
 # github = "ribice"
-email = "ribice@gmail.com"
+email = "strandlines@myself.com"
 # linkedin = "ribice"
 # facebook = "ribice"
 instagram = ""
@@ -66,8 +66,8 @@ rss = "index.xml" # Add this to show RSS button in social.
 platforms = ["rss","github","facebook","twitter","instagram","email","codepen","linkedin"]
 
 [params.matomoAnalytics]
-siteID = 1
-rootURL = "//matomo.example.com/"
+# siteID = 1
+# rootURL = "//matomo.example.com/"
 
 [params.fathomAnalytics]
 # rootURL = "//fathom.example.com/"
