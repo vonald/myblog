@@ -16,7 +16,8 @@
     font-size: medium;
     margin: 0;
     padding: 2px;
-    background: #C1C3F6;
+    background: #FFFFFF;
+    border-bottom: 1px solid #ccc;	
 }
 
 #webmentions .reacts img {
