@@ -21,7 +21,7 @@ authorName = "Stephen James" # Author full name
 authorEmail = "strandlines@myself.com" # Author email
 
 [params.assets]
-customCSS = ["css/custom.css", "css/webmentions.css"]
+customCSS = ["css/custom.css", "css/webmention.css"]
 
 [Author]
   name = "Stephen James"
