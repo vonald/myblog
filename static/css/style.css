@@ -1384,7 +1384,7 @@ a.box:active {
 .content h4,
 .content h5,
 .content h6 {
-  color: #b52323;
+#  color: #b52323;
   font-weight: 300;
   margin-bottom: 20px;
 }
