@@ -13,8 +13,10 @@
     {{ partial "adsense" . }}
     {{ end }}
     <div class="content">
+    <div class="h-entry">
       {{ .Content }}
-	<div id="webmentions"></div>
+    </div>	
+      <div id="webmentions"></div>
       {{ if .Site.Params.Info.related }}
       <div class="related">{{ partial "related" . }}</div>
       {{ end }}
