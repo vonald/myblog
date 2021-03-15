@@ -17,5 +17,5 @@ Among others, I found the following pages useful;
 - [How I Integrated Webmentions Into My Hugo Static Site - Jayeless.net](https://www.jayeless.net/2021/02/integrating-webmentions-into-hugo.html)  
 
 Consider this post a line in the sand: moving back to the act of blogging rather than playing around with the blog site. Even if it is a post *about* playing with the site. 
-     /{{< microformats/time time="2021-03-15T13:28:04" >}}
+     \{{< microformats/time time="2021-03-15T13:28:04" >}}
 	
