@@ -11,9 +11,9 @@ The most important aspect for me was to get webmentions working. I *think* this 
 
 Note to self: I wanted to test to see if webmention.app would correctly notify me of a webmention when I published a test post linking to another post elsewhere on my site. I couldn't get any joy with that but looking around online it seems that it doesn't do self-referential mentions. 
 
-Among others, I found the following pages useful;
-- [Sending your First Webmention from Scratch • Aaron Parecki](https://aaronparecki.com/2018/06/30/11/your-first-webmention)
-- [Adding Webmentions to My Static Hugo Site · Ana Ulin](https://anaulin.org/blog/adding-webmentions/)
-- [How I Integrated Webmentions Into My Hugo Static Site - Jayeless.net](https://www.jayeless.net/2021/02/integrating-webmentions-into-hugo.html)
+Among others, I found the following pages useful;  
+- [Sending your First Webmention from Scratch • Aaron Parecki](https://aaronparecki.com/2018/06/30/11/your-first-webmention)  
+- [Adding Webmentions to My Static Hugo Site · Ana Ulin](https://anaulin.org/blog/adding-webmentions/)  
+- [How I Integrated Webmentions Into My Hugo Static Site - Jayeless.net](https://www.jayeless.net/2021/02/integrating-webmentions-into-hugo.html)  
 
 Consider this post a line in the sand: moving back to the act of blogging rather than playing around with the blog site. Even if it is a post *about* playing with the site.
