@@ -5,7 +5,7 @@ title: ""
 tags: [ IndieWeb, blogging  ]
 type: post
 ---
-I've fallen into the trap of fiddling around with the code for my blog rather than actual blogging. Having moved from Wordpress to Hugo, [as per my plan,](https://www.strandlines.blog/2021/02/18/2021_02_18_1335_blog_workflow/) I've been working on IndieWebifying the site. 
+{{ < microformats/econtent >}} I've fallen into the trap of fiddling around with the code for my blog rather than actual blogging. Having moved from Wordpress to Hugo, [as per my plan,](https://www.strandlines.blog/2021/02/18/2021_02_18_1335_blog_workflow/) I've been working on IndieWebifying the site. 
 
 The most important aspect for me was to get webmentions working. I *think* this is working now. It did take a some joining of the dots for a non-techy person but I got there in the end. 
 
@@ -16,4 +16,4 @@ Among others, I found the following pages useful;
 - [Adding Webmentions to My Static Hugo Site · Ana Ulin](https://anaulin.org/blog/adding-webmentions/)  
 - [How I Integrated Webmentions Into My Hugo Static Site - Jayeless.net](https://www.jayeless.net/2021/02/integrating-webmentions-into-hugo.html)  
 
-Consider this post a line in the sand: moving back to the act of blogging rather than playing around with the blog site. Even if it is a post *about* playing with the site.
+Consider this post a line in the sand: moving back to the act of blogging rather than playing around with the blog site. Even if it is a post *about* playing with the site. {{< /microformats/econtent >}}
