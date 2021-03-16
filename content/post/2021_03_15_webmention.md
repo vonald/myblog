@@ -5,7 +5,7 @@ title: ""
 tags: [ IndieWeb, blogging  ]
 type: post
 ---
-{{ < microformats/econtent >}} I've fallen into the trap of fiddling around with the code for my blog rather than actual blogging. Having moved from Wordpress to Hugo, [as per my plan,](https://www.strandlines.blog/2021/02/18/2021_02_18_1335_blog_workflow/) I've been working on IndieWebifying the site. 
+{{< microformats/econtent >}} I've fallen into the trap of fiddling around with the code for my blog rather than actual blogging. Having moved from Wordpress to Hugo, [as per my plan,](https://www.strandlines.blog/2021/02/18/2021_02_18_1335_blog_workflow/) I've been working on IndieWebifying the site. 
 
 The most important aspect for me was to get webmentions working. I *think* this is working now. It did take a some joining of the dots for a non-techy person but I got there in the end. 
 
