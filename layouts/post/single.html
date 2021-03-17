@@ -7,13 +7,14 @@
       {{ partial "tags" .Params.tags }}
       {{ end }}
     </div>
+    <div class="h-entry">	
     {{if not .Date.IsZero }}<h2 class="subtitle is-6"><time class="dt-published" datetime={{ .Date }}>{{ .Date.Format "2 January 2006" }}</time></h2>{{ end }}
     <h1 class="title">{{ .Title }}</h1>
-    <div class="content">
-      {{ partial "post" . }}
-	<div id="webmentions"></div>
-    </div>
-    {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
+    	<div class="content">
+      		{{ partial "post" . }}
+		<div id="webmentions"></div>
+    	</div>
+    </div>    {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
     {{ partial "adsense" . }}
     {{ end}}
   </div>
