@@ -1,6 +1,6 @@
 ---
 author: Stephen James
-date: 2021-03-15
+date: 2021-03-15T17:15:00
 title: ""
 tags: [ IndieWeb, blogging  ]
 type: post
