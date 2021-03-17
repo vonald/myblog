@@ -12,9 +12,6 @@
     <div class="content">
       {{ partial "post" . }}
 	<div id="webmentions"></div>
-      {{ if .Site.Params.Info.related }}
-      <div class="related">{{ partial "related" . }}</div>
-      {{ end }}
     </div>
     {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
     {{ partial "adsense" . }}
