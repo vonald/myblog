@@ -1,6 +1,6 @@
 ---
 author: Stephen James
-date: 2021-03-18T19:15
+date: 2021-03-18
 title: ""
 tags: [ Coronavirus  ]
 type: post
