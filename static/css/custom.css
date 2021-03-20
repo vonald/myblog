@@ -14,4 +14,8 @@ body.dark-mode main * {
     --pre-fg-color: #d8d8d8;
 }
 
+.content {
+  font-size: 25px;
+  line-height: 1.75;
+}
 
