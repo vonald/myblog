@@ -19,5 +19,5 @@ Looking around online it's clear that yesterday's noise was [heard across much o
 
 One theory is that it was caused by a meteor as there appeared to be one seen over Jersey at around the same time. It had never occurred to me that [meteors can cause sonic booms](https://www.sciencefocus.com/space/can-you-hear-a-meteor/). 
 
-I'd be very intrigued to know if could be confirmed this was the source of yesterday's sound. 
+I'd be very intrigued to know if it could be confirmed this was the source of yesterday's sound. 
 
