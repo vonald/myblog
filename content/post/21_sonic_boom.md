@@ -13,7 +13,7 @@ The sky was overcast so there was nothing to see.
 
 I have heard sonic booms in the past. Including that of Concorde. This sound however, was quite different to any I've previously heard because of how long it continued for. 
 
-As an aside, a few months before Concorde was retired from service we were walking on the North Somerset coast. We heard a sonic boom out to the west and shortly after spotted the unmistakable shape of Concorde high above us. Fun to see such an icon before it disappeared from the skies.
+As an aside, a few months before Concorde was retired from service we were walking on the North Somerset coast. We heard a sonic boom out to the west and shortly after spotted the unmistakable shape of Concorde high above us. Fun to see such an iconic aircraft before it disappeared from the skies.
 
 Looking around online it's clear that yesterday's noise was [heard across much of the southwest](https://www.bbc.co.uk/news/uk-england-56475333), shaking windows and causing ducks to jump in the air! The RAF say it wasn't them. 
 
