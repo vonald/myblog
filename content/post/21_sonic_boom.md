@@ -5,7 +5,7 @@ title: ""
 tags: [  ]
 type: post
 ---
-Yesterday afternoon, out in the garden. At 2.55pm a loud boom up in the sky, just to the south. A little like the sound of live firing we sometimes hear from Salisbury Plain, when the MoD are playing with their toys. 
+Yesterday afternoon, out in the garden. At 2.55pm a loud boom up in the sky, just to the south. A little like the sound of the live firing we sometimes hear from Salisbury Plain, when the MoD are playing with their toys. 
 
 Except this sound didn't stop there. It continued with a kind of stuttering, throbbing quality, like a whole series of lesser 'booms', appearing to move to the west. For perhaps half a minute. Long enough for us to discuss it while it happened. 
 
