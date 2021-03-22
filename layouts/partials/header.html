@@ -18,7 +18,7 @@
 {{- range .Site.Params.Assets.customCSS -}}
 <link rel='stylesheet' href='{{ . | absURL }}'>
 {{- end -}}
-<link href="https://micro.blog/strandlines" rel="me" />
+<link rel="me" href="https://micro.blog/strandlines" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -27,6 +27,7 @@
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="webmention" href="https://webmention.io/www.strandlines.blog/webmention" />
 <link rel="pingback" href="https://webmention.io/www.strandlines.blog/xmlrpc" />
+<link rel="me" href="https://github.com/vonald" />
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <script src="/webmention.min.js" async></script>
