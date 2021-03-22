@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" {{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ if eq .IsHome false }}
+<title>{{ .Title }} | {{ .Site.Title }}</title>
+{{ else }}
+<title>{{ .Site.Params.Info.homeTitle }}</title>
+{{ end }}
+{{ if .Site.Params.Info.enableSocial }}
+{{- partial "social/opengraph" . -}}
+{{ end }}
+{{ if .Site.Params.rss }}
+<link rel="alternate" type="application/rss+xml" href="https://strandlines.blog/index.xml" title="Strandlines">
+{{ end }}
+<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+{{- range .Site.Params.Assets.customCSS -}}
+<link rel='stylesheet' href='{{ . | absURL }}'>
+{{- end -}}
+<link rel="me" href="https://micro.blog/strandlines" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="webmention" href="https://webmention.io/www.strandlines.blog/webmention" />
+<link rel="pingback" href="https://webmention.io/www.strandlines.blog/xmlrpc" />
+<link rel="me" href="https://github.com/vonald" />
+<link class="h-card" rel="me" href="https://www.strandlines.blog/">Stephen James />
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<script src="/webmention.min.js" async></script>
+</head>
+<body>
