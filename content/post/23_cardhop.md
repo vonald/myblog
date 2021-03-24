@@ -5,4 +5,4 @@ title: ""
 tags: [  ]
 type: post
 ---
-Cardhop for Mac by Flexibits looks like a useful app but it has a half-eaten sandwich as an icon. Which is just plain wrong.
+[Cardhop for Mac](https://flexibits.com/cardhop) by Flexibits looks like a useful app but it has a half-eaten sandwich as an icon. Which is just plain wrong.
