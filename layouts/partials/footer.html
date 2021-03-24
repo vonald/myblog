@@ -1,3 +1,4 @@
+{{ partial "hcard" . }}
 <section class="section">
   <div class="container has-text-centered">
     <p> {{ .Site.Copyright | safeHTML }}{{ dateFormat "2006" now }}</p>
@@ -7,5 +8,4 @@
   </div>
 </section>
 </body>
-{{ partial "hcard" . }}
 </html>
