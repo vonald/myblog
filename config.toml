@@ -27,7 +27,7 @@ customCSS = ["css/custom.css", "css/webmention.css"]
   name = "Stephen James"
 
 [permalinks]
-	post = "/:year/:month/:filename/"
+	post = "/:year/:month/:day/:filename/"
 	page = "/:filename/"
 
 
