@@ -1,6 +1,7 @@
 ---
 author: Stephen James
 date: 2021-03-21T14:27:39
+slug: sonic_boom
 title: ""
 tags: [  ]
 type: post
