@@ -1,7 +1,7 @@
 ---
 author: Stephen James
 date: 2021-03-30T06:55:38
-slug: "double-bill"
+slug: "double_bill"
 title: ""
 tags: [ watched ]
 type: post
