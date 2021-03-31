@@ -11,10 +11,11 @@
     {{if not .Date.IsZero }}<h2 class="subtitle is-6"><time class="dt-published" datetime={{ .Date }}>{{ .Date.Format "2 January 2006" }}</time><a class="u-url" href="{{ .Permalink }}"></a> </h2>{{ end }}
     <h1 class="title">{{ .Title }}</h1>
     	<div class="content">
-      		{{ partial "content" . }}
+      		{{ partial "reply" . }}
 		<div id="webmentions"></div>
     	</div>
-    </div>    {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
+    </div>    
+    {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
     {{ partial "adsense" . }}
     {{ end}}
   </div>
