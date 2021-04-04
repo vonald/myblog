@@ -7,6 +7,7 @@ disqusShortname = "shortname"
 googleAnalytics = ""
 Paginate = 6 # Number of posts per page
 enableRobotsTXT = true
+rssLimit = 15
 
 [outputs]
 	page = ["HTML"]
