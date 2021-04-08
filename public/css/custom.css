@@ -13,3 +13,9 @@ body.dark-mode main * {
     --pre-bg-color: #202020;
     --pre-fg-color: #d8d8d8;
 }
+
+.content {
+  font-size: 19px;
+  line-height: 1.75;
+}
+
