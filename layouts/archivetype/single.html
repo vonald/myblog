@@ -19,6 +19,7 @@
             <time>
               <span class="month">{{ .Date | dateFormat "Jan" }}</span> <!-- print publish month -->
               <span class="day">{{ .Date | dateFormat "2" }}</span> <!-- print publish day -->
+	      <a href="{{ .Permalink }}"></a> </h2>
             </time>
               {{ .Summary }}
           </article>
