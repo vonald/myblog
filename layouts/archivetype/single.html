@@ -16,7 +16,7 @@
           </h2>
           <article>
             <h1>
-              <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+		{{if not .Date.IsZero }}<h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}<a href="{{ .Permalink }}"></a></h2>{{ end }}
             </h1>
             <time>
               <span class="month">{{ .Date | dateFormat "Jan" }}</span> <!-- print publish month -->
