@@ -6,7 +6,7 @@ title: ""
 tags: [ mental health  ]
 type: post
 ---
-Sometimes blogging seems to be about *not*hitting the publish button. 
+Sometimes blogging seems to be about *not* hitting the publish button. 
 
 I frequently have ideas for posts related to mental health, make notes and write drafts, only to decide when it comes to it, not to publish. So I've made myself reflect on why. 
 
