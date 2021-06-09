@@ -12,7 +12,7 @@ However, dig a little deeper and I find that these ideas have a much more positi
 
 I came across this in Cicero's Tusculan Disputations;
 
-> it is folly to ruminate on evils to come, or such as, perhaps, never may come: every evil is disagreeable enough when it does come; but he who is constantly considering that some evil may befall him is loading himself with a perpetual evil; and even should such evil never light on him, he voluntarily takes upon himself unnecessary misery, so that he is under constant uneasiness, whether he actually suffers any evil, or only thinks of it.
+> ..it is folly to ruminate on evils to come, or such as, perhaps, never may come: every evil is disagreeable enough when it does come; but he who is constantly considering that some evil may befall him is loading himself with a perpetual evil; and even should such evil never light on him, he voluntarily takes upon himself unnecessary misery, so that he is under constant uneasiness, whether he actually suffers any evil, or only thinks of it.
 
 I think that sums up catastrophizing perfectly, 'ruminate' and 'constantly considering' being the key to what makes it a destructive process. On the other hand, my understanding of negative visualisation is that it is the rational process of considering the possible adverse outcomes, with the emphasis firmly on rational, so that we can be mentally prepared *should* a bad thing happen. The idea then is one of 'how do I respond should that scenario happen?'
 
