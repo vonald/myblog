@@ -6,5 +6,5 @@ title: ""
 tags: [ mental health  ]
 type: post
 ---
-Liked: Mental illness is a reality – so why does ‘mental health’ get all the attention? 
-https://www.theguardian.com/commentisfree/2021/jul/14/mental-illness-sidelined-mental-health-treatment?
+Liked: [Mental illness is a reality – so why does ‘mental health’ get all the attention?](
+https://www.theguardian.com/commentisfree/2021/jul/14/mental-illness-sidelined-mental-health-treatment?)
