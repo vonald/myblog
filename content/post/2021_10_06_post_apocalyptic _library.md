@@ -6,4 +6,4 @@ title: ""
 tags: [  ]
 type: post
 ---
-I love the fact that the library at my son's new school has a post-apocalyptic section. 😆
+I learned that the library at my son's new school has a post-apocalyptic section. 😆 In the fiction department, I might add. 
