@@ -9,10 +9,3 @@ type : post
 To get to November without so much as a sniff of a frost. I couldn't be certain, but that's a first as far as I can recall.
 
 
-
-
-
-
-orrect name. If you are reading this on the blog, then all went according to plan.
-
-
