@@ -6,6 +6,6 @@ title : ""
 tags : [ ]
 type : post
 ---
-![](https://www.dropbox.com/s/lr8c1eebq2ovl9g/img_20220206_094526083~2.jpg?=raw1)
+![](https://www.dropbox.com/s/lr8c1eebq2ovl9g/img_20220206_094526083~2.jpg?raw=1)
 
 15 today! 🐕
