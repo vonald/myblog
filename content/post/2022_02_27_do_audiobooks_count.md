@@ -12,5 +12,5 @@ I find myself asking the same sort of question about audiobooks. Does listening 
 
 In reality, I think it does, particularly given that oral traditions predate reading. And given that I have recently reinstated my membership of our county library, I now have free access to a vast array of audiobooks.
 
-I *will* record them as having been read, along with printed books and I won't note which they were. And that is the end of the matter.
+I *will* record them as having been read, along with printed books and I won't note which format they were. And that is the end of the matter.
 
