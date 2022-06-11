@@ -1,4 +1,4 @@
-baseURL = "https://strandlines.blog"
+baseURL = "https://vonald.github.io/myblog/"
 languageCode = "en"
 title = "Strandlines"
 theme = "kiss"
