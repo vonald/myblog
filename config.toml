@@ -1,4 +1,4 @@
-baseURL = "https://strandlines.blog"
+# baseURL = "https://strandlines.blog"
 languageCode = "en"
 title = "Strandlines"
 theme = "kiss"
